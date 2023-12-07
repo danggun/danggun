@@ -1,21 +1,18 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "challengeCode": "01234567890"
     },
     {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "challengeCode2": "01234567890"
     }
   ],
   "comments": [
     {
       "challengeCode": "01234567890"
+    },
+    {
+      "challengeCode2": "01234567890"
     }
   ],
   "profile": {
